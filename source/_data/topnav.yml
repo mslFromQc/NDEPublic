@@ -18,13 +18,5 @@ topnav_dropdowns:
           external_url: nde_support@evidentscientific.com
         - title: Evident Scientific contact us 
           external_url: https://www.evidentscientific.com/en/contact/
-    - title: Products
-      folderitems:
-        - title: NDE home page 
-          url: /nde_intro.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
 
 # Copyright 2021 Google LLC

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "New site release"
 date:   2023-06-21 11:54:34 -0400
-categories: jekyll update
 permalink: First-post.html
 tags: [news]
 ---
+
+# New Site Release 
 
 Test first new blog!!
 

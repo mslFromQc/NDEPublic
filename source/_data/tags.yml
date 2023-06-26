@@ -3,13 +3,8 @@
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
   - getting_started
-  - navigation
   - formatting
-  - publishing
   - special_layouts
-  - collaboration
   - news
-  - troubleshooting
-  - mobile
 
 # Copyright 2021 Google LLC
