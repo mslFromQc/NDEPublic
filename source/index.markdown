@@ -1,19 +1,22 @@
 ---
-title: Introduction
+title: "Nde documentation"
+keywords: sample homepage
+tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: nde_intro.html
+permalink: index.html
+summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 ---
 
-Mission statement
+# Mission statement
 =================
 
 The aim of this project is to share NDT data between multiple stakeholders. Data are stored using HDF5 file format combined to a JSON text format to describe the metadata associated.
 
-### Scenarios concept
+## Scenarios concept
 Set of predefined conventions to keep simple things simple.
 Scenarios available are *General Weld* and *General Mapping*.
 
-### File structure
+## File structure
 ```
 Internal file hierarchy view.
 
@@ -129,7 +132,7 @@ JSON Group object example containing dataset and a phased array configuration.
 | pci | ... |
 ---
 
-### Documentation 
+## Documentation 
 
 
 <a href="https://globalscientificsolutions.sharepoint.com/:w:/t/PASolutions322/EX2yNbazQ7lKrHWMGwn7bl0BGZLyq_Uj5knynBCjOROF9g?e=ZoJM2W" target="_blank">Plate and weld general conventions (short documentation)</a>
@@ -153,7 +156,7 @@ JSON Group object example containing dataset and a phased array configuration.
 
 ---
 
-### Versioning
+## Versioning
 Versioning...
 
 ### Validation
@@ -164,19 +167,19 @@ Compatibility...
 
 ---
 
-### Security
+## Security
 Integrity, authenticity, confidentiality...
 
 ---
 
-### Examples
-#### Minimum required
+## Examples
+### Minimum required
 How to create a simple .nde file.
 TODO
 
 ---
 
-### Changelog
+## Changelog
 All notable changes to the format will be documented in this file.
 It is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 

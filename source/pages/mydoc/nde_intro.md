@@ -2,6 +2,7 @@
 title: Introduction
 sidebar: mydoc_sidebar
 permalink: nde_intro.html
+folder: mydoc
 ---
 
 Mission statement
@@ -129,7 +130,7 @@ JSON Group object example containing dataset and a phased array configuration.
 | pci | ... |
 ---
 
-### Documentation 
+## Documentation 
 
 
 <a href="https://globalscientificsolutions.sharepoint.com/:w:/t/PASolutions322/EX2yNbazQ7lKrHWMGwn7bl0BGZLyq_Uj5knynBCjOROF9g?e=ZoJM2W" target="_blank">Plate and weld general conventions (short documentation)</a>
@@ -170,13 +171,13 @@ Integrity, authenticity, confidentiality...
 ---
 
 ### Examples
-#### Minimum required
+### Minimum required
 How to create a simple .nde file.
 TODO
 
 ---
 
-### Changelog
+## Changelog
 All notable changes to the format will be documented in this file.
 It is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
@@ -235,3 +236,5 @@ It is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and adh
 
 ### [2.2.12] - 2022-09-01
 - Initial version supported.
+
+{% include links.html %}
