@@ -19,4 +19,21 @@ With a completely open architecture and code base, you can modify the code to ma
 
 If there's a feature you need but it isn't available here, let me know and I might add it. Alternatively, if you fork the theme, I would love to see your modifications and enhancements. Thanks for using Jekyll.
 
+![](https://hackmd.io/_uploads/rJyrOUo_2.jpg)
+
+et tu peux commetner comme ceici 
+
+eh c live en plus
+
+cool!
+c comment dans la vue de droite
+selectionne dans la vue pas dans le MD
+
+
+euh je vois 
+ça l'air de bien fonctionner! 
+
+hello hello hellooooooooo
+
 {% include links.html %}
+
